@@ -1,0 +1,104 @@
+body {
+  background: linear-gradient(#343F68, #3c4977);  
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  color: #FF8853;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.skillBlock h2 {
+  padding: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.skillBlock p {
+  margin-left: 5rem;
+  font-family: "aleoregular", sans-serif;
+  width: 60%;
+}
+
+.Home .skillBlock {
+  background: radial-gradient(#fff, #f3f1d8);
+  padding: 0px 0;  
+}
+
+
+.skillText{
+  display: inline-block;
+  width: 50%;
+  margin: 5%;
+}
+
+.keyWords{
+  color: #000;
+  font-family: "Montserrat", sans-serif;
+  display: inline-block;
+  width: 35%;
+  position: relative;
+  bottom: 15rem;
+  margin-left: 5%;
+}
+
+.keyWords ul li{
+  list-style-type: none;
+  color: #ff8853;
+  font-weight: 900;
+}
+
+.sliderBox {
+  padding: 2rem;
+}
+
+.skillImage {
+  background-image: url("../../img/teacup.jpg");
+  background-color: #FFF;
+  background-position: 40% 30%;
+  height: 50rem;
+  width: 100%;
+}
+
+#artSkill {
+  background-image: url("../../img/tea.jpg");
+}
+
+#peopleSkill {
+  background-image: url("../../img/chair.jpg");
+  background-position: right center;
+}
+
+.footer {
+  width: 100%;
+  height: 30rem;
+  background-color:#FFC;
+}
+
+.info {
+  font-family: "Montserrat", sans-serif;
+  color: #111;
+  margin-left: 20%;
+  padding: 5%;
+
+}
+
+#contactInfo li {
+  list-style-type: none;
+}
