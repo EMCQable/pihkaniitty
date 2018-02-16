@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#343F68, #3c4977);  
+  background-color: #343F68;  
   margin: 0;
 }
 
@@ -31,9 +31,9 @@ body {
 }
 
 .skillBlock p {
-  margin-left: 5rem;
   font-family: "aleoregular", sans-serif;
   width: 60%;
+  margin-left: 3.1rem;
 }
 
 .Home .skillBlock {
@@ -54,7 +54,7 @@ body {
   display: inline-block;
   width: 35%;
   position: relative;
-  bottom: 15rem;
+  bottom: 10rem;
   margin-left: 5%;
 }
 
