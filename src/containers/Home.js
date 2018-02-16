@@ -97,8 +97,8 @@ export default class Home extends Component {
 	    <div className="footerText" id="contactInfo" >
 	      <ul>
 		<li>Timo Polvinen</li>
-		<li><a href="linkedin.com/in/timo-polvinen" >Linkedin</a></li>
-		<li><a href="github.com/emcqable" > GitHub </a></li>
+		<li><a href="linkedin" >Linkedin</a></li>
+		<li><a href="github" > GitHub </a></li>
 		<li>timo.polvinen@gmail.com</li>
 		<li>+358 50 501 4484</li>
 	      </ul>
