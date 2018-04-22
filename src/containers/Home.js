@@ -7,7 +7,7 @@ export default class Home extends Component {
     return (
       <div className="Home">
         <div className="lander">
-          <h1>Kesä 2018 Goforella</h1>
+          <h1>Kesä 2018 Työhakemus</h1>
           <p>Työhakemus</p>
         </div>
 	<div className="skillBlock">
@@ -74,7 +74,7 @@ export default class Home extends Component {
 	      Vastuullisin tehtävä joka minulla lienee koskaan ollut, oli kun palvelin varusmiespalveluksen aikana laivastossa varusmiesjohtajana. Olin yhdessä muutaman
 	      muun kanssa noin 30 hengen päivittäisistä toimista ja ryhmän toimintaan liittyvistä paperitöistä. Ottaisin mielelläni enemmänkin vastuuta tulevissa töissäni.
 	      Olen kuitenkin iloinen siitä, että palveluspaikkani  organisaatiorakenne oli melko litteä verrattuna tyypilliseen inttimeininkiin.
-	      Se on yksi asia mikä minua viehättää Goforessakin työpaikkana.
+	      Se on yksi asia mikä minua viehättää teissäkin työpaikkana.
 	    </p>
 	  </div>
           <div className="keyWords" >
